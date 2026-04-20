@@ -28,4 +28,9 @@ Me chamo Luana Azevedo, tenho 21 anos. Sou estudante de Engenharia de Software n
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Luazv/Luazv/output/snake.svg" alt="Snake animation" />
+
+###
 
